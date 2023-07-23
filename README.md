@@ -1,0 +1,1 @@
+# docker-image-in-aws-ecr
