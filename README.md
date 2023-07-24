@@ -41,7 +41,7 @@ To use this project, you will need:
 
 3. Once the repository is created successfully, you should see your repository name under the "Private repositories" section.
 
-![successfully-created-repository](https://github.com/Dylon-Chan/docker-image-in-aws-ecr/blob/main/photos/successfully-created-repo.png)
+![successfully-create-repository](https://github.com/Dylon-Chan/docker-image-in-aws-ecr/blob/main/photos/successfully-create-repo.png)
 
 ### Authenticating & Authorizing Docker to AWS ECR Repository
 Before you can push an image to your ECR repository, you must authenticate Docker to your AWS ECR repository. Run the following command to receive an authentication token and authenticate Docker to the ECR. Note that the user permissions of `ecr:GetAuthorizationToken` are needed and the IAM Policy (AWS Managed Policy) of `AmazonEC2ContainerRegistryPowerUser` is required.
