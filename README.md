@@ -37,7 +37,7 @@ To use this project, you will need:
 
 ![click-create-repository](https://github.com/Dylon-Chan/docker-image-in-aws-ecr/blob/main/photos/click-create-repository.png)
 
-![input-repository-name](https://github.com/Dylon-Chan/docker-image-in-aws-ecr/blob/main/photos/input-repo-name.png)
+![provide-repo-name](https://github.com/Dylon-Chan/docker-image-in-aws-ecr/blob/main/photos/provide-repo-name.png)
 
 3. Once the repository is created successfully, you should see your repository name under the "Private repositories" section.
 
